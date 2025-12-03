@@ -1,44 +1,46 @@
-### Hi there 👋 I'm Afra Abd
+### 👋 Hi, I'm Neda Assem
 
-💼 Former Engineer → 🎯 Aspiring Software & Web Developer  
-📍 Currently studying programming and building real projects
-
----
-
-### 🧠 My Learning Journey
-- ✔ Started with **C++** (Functional Programming → OOP)
-- ✔ Learned **C#**, **.NET**, **SQL**, **API Development**
-- ✔ Built UI apps using **Windows Forms** + **ADO.NET**
-- 🎯 Now learning **HTML** → Becoming a Web Developer
+💼 Former Engineer → 🔥 Aspiring Software & Web Developer  
+🎓 Currently learning front-end (HTML, CSS, JS) to become a full-stack developer  
+🚀 Passionate about real-world software projects and continuous learning
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** C++, C#, SQL, HTML (learning)
-- **Frameworks:** .NET, WinForms
-- **Database:** MSSQL / ADO.NET
-- **Concepts:** OOP, SOLID Principles, API Development
+### 🧠 My Learning Journey (Projects in Order)
+
+| Step | Project | Technology | Description | Status |
+|------|---------|------------|-------------|--------|
+| 🥇 1 | [Bank Management System](https://github.com/NedaAssem/BankManagementSystem) | C++ OOP (Console App) | Basic banking operations (account mgmt, deposit, withdraw...) | ✔ Completed |
+| 🥈 2 | [Pizza Project](https://github.com/NedaAssem/PizzaProject) | C++ OOP (Console App) | Menu, ordering system, bill calculation | ✔ Completed |
+| 🥉 3 | [Tic-Tac-Toe Game](https://github.com/NedaAssem/TicTacToeGame) | C++ Console Game | Two-player game with win/draw logic | ✔ Completed |
+| 🎯 4 | Windows Forms Game *(Private Repo?)* | C#, .NET WinForms | Simple GUI-based game | ✔ Completed |
+| 🚦 5 | [Driving License Management System](https://github.com/NedaAssem/Driving_License_Management_System_DVLD) | C#, WinForms + ADO.NET + SQL | Manage drivers, tests, license issuing | ✔ Completed |
+| 🛒 6 | [OnlineStore API](https://github.com/NedaAssem/OnlineStore-API) | ASP.NET Web API, EF Core, SQL Server | Multi-layer API: products, categories, orders, reviews... | 🚧 In Development |
 
 ---
 
-### 📌 My Projects on GitHub
-Here are some of the projects I’ve built:
+### 🛠️ Tech Stack
 
-| Project | Technology | Description |
-|--------|------------|-------------|
-| Pizza Ordering System | C++ OOP | Console application with OOP principles |
-| Tic-Tac-Toe Game | C++ | Simple terminal game |
-| Driving License Management System | C# WinForms + DB | UI + database + CRUD operations |
-| Windows Forms Game | C# WinForms | Small interactive game project |
-| Online Store API | ASP.NET Web API | Backend REST API project |
+| Category | Technologies |
+|---------|--------------|
+| Languages | C++, C#, SQL, HTML (learning) |
+| Frameworks | .NET, WinForms, ASP.NET Web API |
+| Database | SQL Server, ADO.NET, EF Core |
+| Concepts | OOP, SOLID, Multi-layer Architecture |
 
-📍 *More improvements coming as I learn!*
+---
+
+### 📌 Current Focus
+
+- 🌱 Web Development (HTML → CSS → JavaScript → ASP.NET Full Stack)
+- 🔨 Improving OnlineStore API with new features
 
 ---
 
 ### 📫 Connect With Me
-- 🔗 LinkedIn: *Add your link here*
+🔗 LinkedIn: *(Add your link here — I will update it for you)*
 
 ---
 
-🎯 *I love building things that help me learn new technologies and improve my skills every day.*
+⭐ Feel free to check out my repositories and follow my progress!  
+I’m constantly improving myself and my projects 💪😄
