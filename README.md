@@ -8,8 +8,8 @@
 
 ### 🧠 My Learning Journey (Projects in Order)
 
-| Project | Technology | Description | Status |
-|---------|------------|-------------|--------|
+| Project | Technology | Description |
+|---------|------------|-------------|
 | [Bank Management System](https://github.com/NedaAssem/BankManagementSystem) | C++ OOP (Console App) | Basic banking operations (account mgmt, deposit, withdraw...) 
 | [Pizza Project](https://github.com/NedaAssem/PizzaProject) |  C#, .NET WinForms  | Menu, ordering system, bill calculation 
 | [Tic-Tac-Toe Game](https://github.com/NedaAssem/TicTacToeGame) | C#, .NET WinForms  | Two-player game with win/draw logic 
