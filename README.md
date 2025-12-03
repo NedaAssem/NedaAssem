@@ -8,14 +8,13 @@
 
 ### 🧠 My Learning Journey (Projects in Order)
 
-| Step | Project | Technology | Description | Status |
-|------|---------|------------|-------------|--------|
-| 🥇 1 | [Bank Management System](https://github.com/NedaAssem/BankManagementSystem) | C++ OOP (Console App) | Basic banking operations (account mgmt, deposit, withdraw...) | ✔ Completed |
-| 🥈 2 | [Pizza Project](https://github.com/NedaAssem/PizzaProject) | C++ OOP (Console App) | Menu, ordering system, bill calculation | ✔ Completed |
-| 🥉 3 | [Tic-Tac-Toe Game](https://github.com/NedaAssem/TicTacToeGame) | C++ Console Game | Two-player game with win/draw logic | ✔ Completed |
-| 🎯 4 | Windows Forms Game *(Private Repo?)* | C#, .NET WinForms | Simple GUI-based game | ✔ Completed |
-| 🚦 5 | [Driving License Management System](https://github.com/NedaAssem/Driving_License_Management_System_DVLD) | C#, WinForms + ADO.NET + SQL | Manage drivers, tests, license issuing | ✔ Completed |
-| 🛒 6 | [OnlineStore API](https://github.com/NedaAssem/OnlineStore-API) | ASP.NET Web API, EF Core, SQL Server | Multi-layer API: products, categories, orders, reviews... | 🚧 In Development |
+| Project | Technology | Description | Status |
+|---------|------------|-------------|--------|
+| [Bank Management System](https://github.com/NedaAssem/BankManagementSystem) | C++ OOP (Console App) | Basic banking operations (account mgmt, deposit, withdraw...) 
+| [Pizza Project](https://github.com/NedaAssem/PizzaProject) |  C#, .NET WinForms  | Menu, ordering system, bill calculation 
+| [Tic-Tac-Toe Game](https://github.com/NedaAssem/TicTacToeGame) | C#, .NET WinForms  | Two-player game with win/draw logic 
+| [Driving License Management System](https://github.com/NedaAssem/Driving_License_Management_System_DVLD) | C#, WinForms + ADO.NET + SQL | Manage drivers, tests, license issuing 
+| [OnlineStore API](https://github.com/NedaAssem/OnlineStore-API) | ASP.NET Web API, EF Core, SQL Server | Multi-layer API: products, categories, orders, reviews...🚧 In Development  
 
 ---
 
