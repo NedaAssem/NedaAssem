@@ -47,7 +47,7 @@ Here are some of the projects I’ve built:
 ---
 
 ### 📫 Connect With Me
-🔗 LinkedIn: *(Add your link here — I will update it for you)*
+🔗 LinkedIn: *www.linkedin.com/in/nedi-althabit*
 
 ---
 
