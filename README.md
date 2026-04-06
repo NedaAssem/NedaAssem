@@ -1,17 +1,17 @@
-### 👋 Hi, I'm Neda Assem
+###  Nedi Assem
 
-💼 Former Engineer → 🔥 Aspiring Software & Web Developer  
-🎓 Currently learning front-end (HTML, CSS, JS) to become a full-stack developer  
-🚀 Passionate about real-world software projects and continuous learning
+ Systems Engineer  →  Aspiring Software & Web Developer  
+ Currently learning front-end (HTML, CSS, JS) to become a full-stack developer  
+ Passionate about real-world software projects and continuous learning
 
 ---
 
-### 🧠 My Learning Journey
+###  My Learning Journey
 - ✔ Started with **C++** (Functional Programming → OOP)
 - ✔ Learned **C#**, **.NET**, **SQL**, **API Development**
 - ✔ Built UI apps using **Windows Forms** + **ADO.NET**
 - ✔ Built API app using **ASP.NET Web API** + **EF Core**
-- 🎯 Now learning **HTML** → Becoming a Web Developer
+-  Now learning **HTML** → Becoming a Web Developer
 
 ---
 
@@ -41,15 +41,14 @@ Here are some of the projects I’ve built:
 
 ### 📌 Current Focus
 
-- 🌱 Web Development (HTML → CSS → JavaScript → ASP.NET Full Stack)
-- 🔨 Improving OnlineStore API with new features
+-  Web Development (HTML → CSS → JavaScript → ASP.NET Full Stack)
+-  Improving OnlineStore API with new features
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 🔗 LinkedIn: *www.linkedin.com/in/nedi-althabit*
 
----
 
-⭐ Feel free to check out my repositories and follow my progress!  
-I’m constantly improving myself and my projects 💪😄
+
+
